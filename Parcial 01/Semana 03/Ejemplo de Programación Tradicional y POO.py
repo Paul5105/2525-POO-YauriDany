@@ -26,6 +26,11 @@ promedio = calcular_promedio()
 # Mostrar el resultado
 print("Promedio semanal (Tradicional):", round(promedio, 2), "°C")
 
+
+
+
+
+
 print("##Programación Orientada a Objetos (POO)##")
 
 #Diseña una solución utilizando el paradigma de POO.
