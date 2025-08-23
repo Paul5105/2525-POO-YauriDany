@@ -1,0 +1,32 @@
+{
+    "001": {
+        "ID": "001",
+        "nombre": "Laptops ASUS",
+        "cantidad": 30,
+        "precio": 800.0
+    },
+    "002": {
+        "ID": "002",
+        "nombre": "Laptops HP",
+        "cantidad": 22,
+        "precio": 600.0
+    },
+    "003": {
+        "ID": "003",
+        "nombre": "Computadora de Escritorio",
+        "cantidad": 10,
+        "precio": 570.0
+    },
+    "004": {
+        "ID": "004",
+        "nombre": "Celular gama alta SAMSUNG",
+        "cantidad": 10,
+        "precio": 500.0
+    },
+    "005": {
+        "ID": "005",
+        "nombre": "Celular gama media SAMSUNG",
+        "cantidad": 17,
+        "precio": 350.0
+    }
+}
