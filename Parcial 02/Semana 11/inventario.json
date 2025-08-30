@@ -1,0 +1,26 @@
+{
+    "001": {
+        "ID": "001",
+        "Nombre": "Laptops ASUS",
+        "Cantidad": 25,
+        "Precio": 830.0
+    },
+    "002": {
+        "ID": "002",
+        "Nombre": "Laptops HP",
+        "Cantidad": 20,
+        "Precio": 600.0
+    },
+    "003": {
+        "ID": "003",
+        "Nombre": "Celulares SAMSUNG",
+        "Cantidad": 20,
+        "Precio": 650.0
+    },
+    "004": {
+        "ID": "004",
+        "Nombre": "Audifonos inal\u00e1mbricos",
+        "Cantidad": 10,
+        "Precio": 7.0
+    }
+}
